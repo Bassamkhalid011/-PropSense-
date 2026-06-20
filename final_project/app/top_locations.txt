@@ -1,0 +1,408 @@
+AGOCHS Phase 1, AGOCHS
+AJ Towers, Gulberg Greens - Block A
+AWT, D-18
+Abdullah Town, I-13
+Airport Enclave B, Airport Enclave
+Airport Enclave E, Airport Enclave
+Airport Enclave Villas, Airport Enclave
+Airport Enclave, Islamabad
+Airport Green Garden - Block A, Airport Green Garden
+Airport Green Garden, Kashmir Highway
+Al-Ghurair Giga - Block 12, Al-Ghurair Giga
+Al-Ghurair Giga, DHA Defence Phase 2
+Ali Pur, Islamabad
+Alipur Farash, Islamabad
+Arsalan Town, Islamabad
+Askari Tower 1, DHA Defence Phase 2
+Athal, Islamabad
+B-17, Islamabad
+Bahria Enclave - Sector A, Bahria Enclave
+Bahria Enclave - Sector B1, Bahria Enclave
+Bahria Enclave - Sector B2, Bahria Enclave
+Bahria Enclave - Sector C, Bahria Enclave
+Bahria Enclave - Sector C1, Bahria Enclave
+Bahria Enclave - Sector C2, Bahria Enclave
+Bahria Enclave - Sector C3, Bahria Enclave
+Bahria Enclave - Sector F, Bahria Enclave
+Bahria Enclave - Sector F1, Bahria Enclave
+Bahria Enclave - Sector G, Bahria Enclave
+Bahria Enclave - Sector H, Bahria Enclave
+Bahria Enclave - Sector I, Bahria Enclave
+Bahria Enclave - Sector J, Bahria Enclave
+Bahria Enclave - Sector M, Bahria Enclave
+Bahria Enclave - Sector N, Bahria Enclave
+Bahria Enclave, Bahria Town
+Bahria Garden City - Zone 1, Bahria Garden City
+Bahria Garden City - Zone 4, Bahria Garden City
+Bahria Garden City - Zone 5, Bahria Garden City
+Bahria Garden City West, Bahria Garden City - Zone 4
+Bahria Garden City, Bahria Town
+Bahria Town, Islamabad
+Bani Gala, Islamabad
+Bhara kahu, Islamabad
+Bhatti Town, Gulberg Expressway
+C-16, Islamabad
+C-18 - Block A, C-18
+C-18, Islamabad
+CBR Town Phase 1 - Block C, CBR Town Phase 1
+CBR Town Phase 1 - Block D, CBR Town Phase 1
+CBR Town Phase 1 - Executive Block, CBR Town Phase 1
+CBR Town Phase 1, CBR Town
+CBR Town, Islamabad
+CDECHS - Cabinet Division Employees Cooperative Housing Society, E-16/3
+Canary Residency, Faisal Hills
+Capital Enclave, Islamabad
+Capital Smart City Phase 3, Airport Avenue
+Chak Shahzad Farms, Chak Shahzad
+Chak Shahzad, Islamabad
+Chatha Bakhtawar, Islamabad
+D-12 Markaz, D-12
+D-12, Islamabad
+D-12/1, D-12
+D-12/2, D-12
+D-12/3, D-12
+D-12/4, D-12
+D-17, Islamabad
+D-18, Islamabad
+DHA Defence Phase 1, DHA Defence
+DHA Defence Phase 2, DHA Defence
+DHA Defence Phase 3, DHA Defence
+DHA Defence Phase 4, DHA Defence
+DHA Defence Phase 5, DHA Defence
+DHA Defence Phase 7, DHA Defence
+DHA Homes, DHA Valley
+DHA Phase 1 - Defence Villas, DHA Phase 1 - Sector F
+DHA Phase 1 - Sector A, DHA Defence Phase 1
+DHA Phase 1 - Sector B, DHA Defence Phase 1
+DHA Phase 1 - Sector C, DHA Defence Phase 1
+DHA Phase 1 - Sector E, DHA Defence Phase 1
+DHA Phase 1 - Sector F, DHA Defence Phase 1
+DHA Phase 2 - Sector A, DHA Defence Phase 2
+DHA Phase 2 - Sector B, DHA Defence Phase 2
+DHA Phase 2 - Sector C, DHA Defence Phase 2
+DHA Phase 2 - Sector D, DHA Defence Phase 2
+DHA Phase 2 - Sector E, DHA Defence Phase 2
+DHA Phase 2 - Sector F, DHA Defence Phase 2
+DHA Phase 2 - Sector G, DHA Defence Phase 2
+DHA Phase 2 - Sector H, DHA Defence Phase 2
+DHA Phase 2 - Sector J, DHA Defence Phase 2
+DHA Phase 3 - Block A, DHA Defence Phase 3
+DHA Phase 3 - Block B, DHA Defence Phase 3
+DHA Phase 4 - Sector A, DHA Defence Phase 4
+DHA Phase 4 - Sector B, DHA Defence Phase 4
+DHA Phase 4 - Sector C, DHA Defence Phase 4
+DHA Phase 5 - Sector A, DHA Defence Phase 5
+DHA Phase 5 - Sector C, DHA Defence Phase 5
+DHA Phase 5 - Sector D, DHA Defence Phase 5
+DHA Phase 5 - Sector F, DHA Defence Phase 5
+DHA Phase 5 - Sector H, DHA Defence Phase 5
+DHA Phase 5 - Sector J, DHA Defence Phase 5
+DHA Valley - Lilly Sector, DHA Valley
+DHA Valley - Oleander Sector, DHA Valley
+DHA Valley, DHA Defence
+Defence Residency, DHA Defence Phase 2
+Defence Tower 2, DHA Phase 2 - Sector C
+Diamond Mall & Residency, Gulberg Greens
+Diplomatic Enclave, Islamabad
+E-11, Islamabad
+E-11/1, E-11
+E-11/2, E-11
+E-11/3, E-11
+E-11/4, E-11
+E-16/1, E-16
+E-16/3, E-16
+E-17, Islamabad
+E-17/3, E-17
+E-18, Islamabad
+E-7, Islamabad
+Eighteen, Kashmir Highway
+El Cielo, GT Road
+Elysium Mall, Blue Area
+Emaar Canyon Views - Alma 1 Block, Emaar Canyon Views
+Emaar Canyon Views, Islamabad
+Engineers Co-operative Housing, D-18
+F-10 Markaz, F-10
+F-10, Islamabad
+F-10/1, F-10
+F-10/2, F-10
+F-10/3, F-10
+F-10/4, F-10
+F-11 Markaz, F-11
+F-11, Islamabad
+F-11/1, F-11
+F-11/2, F-11
+F-11/3, F-11
+F-11/4, F-11
+F-15, Islamabad
+F-15/1, F-15
+F-17, Islamabad
+F-17/2, F-17
+F-6, Islamabad
+F-6/1, F-6
+F-6/2, F-6
+F-6/3, F-6
+F-6/4, F-6
+F-7, Islamabad
+F-7/1, F-7
+F-7/2, F-7
+F-7/3, F-7
+F-7/4, F-7
+F-8, Islamabad
+F-8/1, F-8
+F-8/3, F-8
+F-8/4, F-8
+Faisal Hills - Block A, Faisal Hills
+Faisal Hills - Block B, Faisal Hills
+Faisal Hills - Block C, Faisal Hills
+Faisal Hills - Executive Block, Faisal Hills
+Faisal Hills, Islamabad
+Faisal Margalla City, B-17
+Faisal Town - F-18, Islamabad
+Faisal Town Phase 1 - Block A, Faisal Town Phase 1
+Faisal Town Phase 1 - Block B, Faisal Town Phase 1
+Faisal Town Phase 1 - Block C, Faisal Town Phase 1
+Faisal Town Phase 1, Faisal Town - F-18
+Fazaia Housing Scheme Block B, Fazaia Housing Scheme
+Fazaia Housing Scheme Block F, Fazaia Housing Scheme
+Fazaia Housing Scheme, Tarnol
+Federation Housing Society - O-9, National Police Foundation O-9
+Florence Galleria, DHA Phase 2 - Sector C
+G-10, Islamabad
+G-10/1, G-10
+G-10/2, G-10
+G-10/3, G-10
+G-10/4, G-10
+G-11, Islamabad
+G-11/1, G-11
+G-11/2, G-11
+G-11/3, G-11
+G-13, Islamabad
+G-13/1, G-13
+G-13/2, G-13
+G-13/3, G-13
+G-13/4, G-13
+G-14, Islamabad
+G-14/2, G-14
+G-14/3, G-14
+G-14/4, G-14
+G-15, Islamabad
+G-15/1, G-15
+G-15/2, G-15
+G-15/3, G-15
+G-15/4, G-15
+G-16, Islamabad
+G-16/3, G-16
+G-16/4, G-16
+G-6, Islamabad
+G-6/1, G-6
+G-6/2, G-6
+G-6/3, G-6
+G-6/4, G-6
+G-7/2, G-7
+G-7/4, G-7
+G-8, Islamabad
+G-8/1, G-8
+G-8/2, G-8
+G-9, Islamabad
+G-9/1, G-9
+G-9/2, G-9
+G-9/3, G-9
+G-9/4, G-9
+GT Road, Islamabad
+Ghauri Garden, Ghauri Town
+Ghauri Town Phase 4 C1, Ghauri Town
+Ghauri Town Phase 4 C2, Ghauri Town
+Ghauri Town Phase 4A, Ghauri Town
+Ghauri Town Phase 4B, Ghauri Town
+Ghauri Town Phase 5A, Ghauri Town
+Ghauri Town Phase 5B, Ghauri Town
+Ghauri Town Phase 7, Ghauri Town
+Ghauri Town, Islamabad
+Goldcrest Highlife, DHA Defence Phase 2
+Goldcrest Views, DHA Defence Phase 2
+Green Avenue, Islamabad
+Gulberg Arena Mall, Gulberg Greens
+Gulberg Greens - Block A, Gulberg Greens
+Gulberg Greens - Block B, Gulberg Greens
+Gulberg Greens - Block C, Gulberg Greens
+Gulberg Greens - Block D, Gulberg Greens
+Gulberg Greens - Block E, Gulberg Greens
+Gulberg Greens, Gulberg
+Gulberg Heights, Gulberg Greens
+Gulberg Residencia - Block A, Gulberg Residencia
+Gulberg Residencia - Block C, Gulberg Residencia
+Gulberg Residencia - Block E, Gulberg Residencia
+Gulberg Residencia - Block F, Gulberg Residencia
+Gulberg Residencia - Block H, Gulberg Residencia
+Gulberg Residencia - Block I, Gulberg Residencia
+Gulberg Residencia - Block J, Gulberg Residencia
+Gulberg Residencia - Block L, Gulberg Residencia
+Gulberg Residencia - Block O, Gulberg Residencia
+Gulberg Residencia - Block V, Gulberg Residencia
+Gulberg Residencia, Gulberg
+Gulberg Town, Lehtrar Road
+Gulberg, Islamabad
+Gulshan-e-Khudadad, Islamabad
+Gulshan-e-Sehat 1 - Block D, Gulshan-e-Sehat 1
+Gulshan-e-Sehat 1 - Hamza Block, Gulshan-e-Sehat 1
+Gulshan-e-Sehat 1, E-18
+Gulshan-e-Sehat 2 - Block F, Gulshan-e-Sehat 2
+Gulshan-e-Sehat 2 - Block G, Gulshan-e-Sehat 2
+H-13, Islamabad
+I-10, Islamabad
+I-10/1, I-10
+I-10/2, I-10
+I-10/4, I-10
+I-11, Islamabad
+I-11/1, I-11
+I-11/2, I-11
+I-12/1, I-12
+I-14, Islamabad
+I-14/1, I-14
+I-14/3, I-14
+I-14/4, I-14
+I-16, Islamabad
+I-16/2, I-16
+I-16/3, I-16
+I-8, Islamabad
+I-8/2, I-8
+I-8/3, I-8
+I-8/4, I-8
+I-9, Islamabad
+I-9/1, I-9
+I-9/4, I-9
+Islamabad Expressway, Islamabad
+Japan Road, Islamabad
+Jhangi Syedan, Islamabad
+Jinnah Gardens - Block E, Jinnah Gardens
+Jinnah Gardens Phase 1, Jinnah Gardens
+Jinnah Gardens, FECHS
+Karakoram Greens, Gulberg Greens
+Karsaaz Villas, D-12
+Kazani Heights, Islamabad Expressway
+Kazani Resorts, Simly Dam Road
+Khanna Pul, Islamabad
+Koral Chowk, Islamabad
+Koral Town, Islamabad
+Korang Town, Islamabad
+Kuri Road, Islamabad
+Lehtrar Road, Islamabad
+Lilly Sector - Block A, DHA Valley - Lilly Sector
+Lilly Sector - DHA Homes, DHA Valley - Lilly Sector
+MPCHS - Block A, MPCHS - Multi Gardens
+MPCHS - Block B Extension 1, MPCHS - Multi Gardens
+MPCHS - Block B, MPCHS - Multi Gardens
+MPCHS - Block C, MPCHS - Multi Gardens
+MPCHS - Block C1, MPCHS - Multi Gardens
+MPCHS - Block D, MPCHS - Multi Gardens
+MPCHS - Block E, MPCHS - Multi Gardens
+MPCHS - Block F, MPCHS - Multi Gardens
+MPCHS - Multi Gardens, B-17
+Mall of Imarat, Jinnah Gardens
+Margalla Town Phase 1, Margalla Town
+Margalla Town Phase 2, Margalla Town
+Margalla Town, Islamabad
+Margalla View Housing Society, D-17
+Margalla View Society - Block A, Margalla View Housing Society
+Margalla View Society - Block D, Margalla View Housing Society
+Marwa Town - Block B, Marwa Town
+Marwa Town - Block C, Marwa Town
+Marwa Town, Islamabad
+Ministry of Commerce Society, E-19
+Multi Residencia & Orchards, Islamabad
+Mumtaz City - Chanab Block, Mumtaz City
+Mumtaz City - Indus Block, Mumtaz City
+Mumtaz City - Ravi Block, Mumtaz City
+Mumtaz City, Islamabad
+Murree Road, Islamabad
+National Police Foundation O-9 - Block A, National Police Foundation O-9
+National Police Foundation O-9 - Block B, National Police Foundation O-9
+National Police Foundation O-9 - Block C, National Police Foundation O-9
+National Police Foundation O-9 - Block F, National Police Foundation O-9
+National Police Foundation O-9, Islamabad
+Naval Anchorage - Block C, Naval Anchorage
+Naval Anchorage - Block E, Naval Anchorage
+Naval Anchorage - Block F, Naval Anchorage
+Naval Anchorage - Block G, Naval Anchorage
+Naval Anchorage - Block M, Naval Anchorage
+Naval Anchorage, Islamabad
+Naval Farms Housing Scheme, Islamabad
+New Blue Area, Islamabad
+Oleander Sector - Block A, DHA Valley - Oleander Sector
+Oleander Sector - Block B, DHA Valley - Oleander Sector
+Oleander Sector - Block D, DHA Valley - Oleander Sector
+Oleander Sector - DHA Homes Block A, DHA Valley - Oleander Sector
+Oleander Sector - DHA Homes, DHA Valley - Oleander Sector
+Orchard Scheme, Islamabad
+PAEC Employees Cooperative Housing Society, Islamabad
+PAF Tarnol - Block D, PAF Tarnol
+PECHS - Block K Extension, PECHS
+PECHS - Block K, PECHS
+PECHS - Block M, PECHS
+PECHS, Islamabad
+PHAF Officers Residencia, Kuri Road
+PWD Housing Scheme, Islamabad
+PWD Housing Society - Block A, PWD Housing Scheme
+PWD Housing Society - Block B, PWD Housing Scheme
+PWD Housing Society - Block C, PWD Housing Scheme
+PWD Housing Society - Block D, PWD Housing Scheme
+Pakistan Town - Phase 1, Pakistan Town
+Pakistan Town - Phase 2, Pakistan Town
+Pakistan Town, Islamabad
+Park Enclave 1, Park Enclave
+Park Enclave, Islamabad
+Park Road, Islamabad
+Park View - Block B, Park View City
+Park View - Block H, Park View City
+Park View - Block J, Park View City
+Park View City - Downtown Block, Park View City
+Park View City - Overseas Block, Park View City
+Park View City, Islamabad
+Pir Sohawa, Islamabad
+Radisson BLU Hotel & Residences, Mumtaz City
+Rahman Enclave, Lehtrar Road
+Rawal Enclave - Phase 1, Rawal Enclave
+Rawal Town, Islamabad
+Rawalpindi Housing Society, C-18
+Rawat, Islamabad
+River Garden, Islamabad
+Shalimar Town, Islamabad
+Shams Colony, H-13
+Simly Dam Road, Islamabad
+Skypark One, Gulberg Greens
+Smama Star Mall & Residency, Gulberg Greens
+Soan Garden - Block A, Soan Garden
+Soan Garden - Block B, Soan Garden
+Soan Garden - Block D, Soan Garden
+Soan Garden - Block E, Soan Garden
+Soan Garden - Block F, Soan Garden
+Soan Garden - Block H Extension, Soan Garden
+Soan Garden - Block H, Soan Garden
+Soan Garden, Islamabad
+Sohan Valley, Islamabad
+Spring Valley, Islamabad
+Sukh Chayn Residence, F-10
+Swan Garden, Islamabad
+Taramrri, Islamabad
+Tarlai, Islamabad
+Tarnol, Islamabad
+Telegardens (T&T ECHS), F-17
+Thanda Pani, Islamabad
+The Royal Mall and Residency, Bahria Enclave
+Top City 1 - Block A, Top City 1
+Top City 1 - Block B, Top City 1
+Top City 1 - Block C, Top City 1
+Top City 1 - Block D, Top City 1
+Top City 1, Islamabad
+University Town - Block A, University Town
+University Town - Block E, University Town
+University Town, Islamabad
+Veranda Executive, G-10 Markaz
+Wapda Town - Block A, Wapda Town Islamabad
+Wapda Town - Block D, Wapda Town Islamabad
+Wapda Town Islamabad, C-19
+Zamar Valley, Kashmir Highway
+Zaraj Housing Scheme, Islamabad
+Zaraj Scheme - Sector A, Zaraj Housing Scheme
+Zaraj Scheme - Sector C, Zaraj Housing Scheme
+Zarkon Heights, G-15
