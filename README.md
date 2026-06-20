@@ -66,26 +66,6 @@ final_project/
     └── scraper.py                  # Zameen.com multi-threaded scraper
 ```
 
----
-
-## 📊 Model Performance
-
-| Model | R² | Accuracy | MAE |
-|---|---|---|---|
-| Gradient Boosting | 0.891 | 92.3% | 20.8M PKR |
-| Random Forest | 0.891 | 92.1% | 20.9M PKR |
-| LightGBM+XGBoost Blend | 0.886 | 91.9% | 20.6M PKR |
-| XGBoost | 0.888 | 91.7% | 20.4M PKR |
-| CatBoost | 0.881 | 91.8% | 20.5M PKR |
-| LightGBM | 0.873 | 91.5% | 21.3M PKR |
-| Ridge Regression | 0.870 | 89.0% | 22.0M PKR |
-| Linear Regression | 0.866 | 89.6% | 22.0M PKR |
-| Decision Tree | 0.840 | 87.8% | 24.6M PKR |
-
-> Best deployed model: **Gradient Boosting** (highest accuracy at 92.3%)
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
